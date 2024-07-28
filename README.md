@@ -16,4 +16,4 @@ Welcome to the BI Dashboard Project repository! This project contains a Power BI
 1. **Prerequisites**: Ensure you have Power BI Desktop installed on your machine.
 2. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/yourusername/BI_Dashboard_Project.git
+   git clone https://github.com/SatejJ/BI_Dashboard_Project.git
